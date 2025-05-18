@@ -21,14 +21,14 @@ int main() {
     int pontos_turisticos2= 10;
            
 // Exibe cartas
-    printf("                    carta 1     - carta 2\n");
-    printf("estados:            %c              %c\n", estado1, estado2);
-    printf("cartas:             %s              %s\n", carta1, carta2);
-    printf("cidade:             %s              %s\n", cidade1, cidade2);
-    printf("populacao:          %d              %d\n", populacao1, populacao2);
-    printf("area:               %.2f                %.2f\n", area1, area2);
-    printf("pib:                %.2f                %.2f\n", pib1, pib2);
-    printf("pontos turisticos:  %d              %d\n", pontos_turisticos1, pontos_turisticos2);
+    printf("                     carta 1                -            carta 2\n");
+    printf("estados:                %c                             %c\n", estado1, estado2);
+    printf("cartas:                %s                            %s\n", carta1, carta2);
+    printf("cidade:               %s                        %s\n", cidade1, cidade2);
+    printf("populacao:              %d                    %d\n", populacao1, populacao2);
+    printf("area:                %.2f                      %.2f\n", area1, area2);
+    printf("pib:                %.2f                        %.2f\n", pib1, pib2);
+    printf("pontos turisticos:        %d                        %d\n", pontos_turisticos1, pontos_turisticos2);
 
     return 0;
 
